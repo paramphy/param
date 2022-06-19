@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://visvabharati.ac.in/index.html'>Visva-Bharati</a>. Santiniketan
 
 profile:
   align: right
