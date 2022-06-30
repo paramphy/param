@@ -57,8 +57,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: paramphy
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+twitter_username: paramphy # your Twitter handle
+linkedin_username: paramesh-chandra-156613169 # your LinkedIn user name
 scholar_userid: UAL4EEkAAAAJ
 orcid_id: 0000-0002-2408-0493
 medium_username: # your Medium username
@@ -73,7 +73,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Mail is preferred mostly and appreciated.
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -311,3 +311,9 @@ popper:
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
+
+# -----------------------------------------------------------------------------
+# Gallery
+# -----------------------------------------------------------------------------
+imagesurl: "/mysite/img/"
+thumbsurl: "/mysite/thumbs/"
