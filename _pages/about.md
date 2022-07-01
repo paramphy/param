@@ -15,5 +15,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently working on lead-free perovskite solar cells. I like reading books, coding, having good conversations.  
+I am **Paramesh Chandra**, doing my Ph.D. in Visva-Bharati, Santiniektan. My work is focused on lead-free perovskite solar cells. I like reading books, coding, having good conversations. Currently coding in Python may learn something more I always do.
 
