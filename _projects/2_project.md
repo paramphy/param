@@ -1,10 +1,11 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image
+description: a python introduction codes for beginner
 img: assets/img/3.jpg
 importance: 2
 category: work
+redirect: https://github.com/paramphy/Python-Codes
 ---
 
 Every project has a beautiful feature showcase page.
