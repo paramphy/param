@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
+title: Python computation
 description: another without an image
-img:
+img: assets/img/python_comp.jpg
 importance: 3
-category: fun
+redirect: https://github.com/paramphy/python_for_computational_physics
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

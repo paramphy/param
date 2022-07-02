@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 2
+title: Python intro
 description: a python introduction codes for beginner
-img: assets/img/3.jpg
-importance: 2
+img: assets/img/Python_Logo.png
+importance: 4
 category: work
 redirect: https://github.com/paramphy/Python-Codes
 ---
