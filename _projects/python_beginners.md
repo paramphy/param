@@ -3,9 +3,10 @@ layout: page
 title: Python intro
 description: a python introduction codes for beginner
 img: assets/img/Python_Logo.png
-importance: 4
+importance: 2
 category: work
 redirect: https://github.com/paramphy/Python-Codes
+github : https://github.com/paramphy/Python-Codes
 ---
 
 Every project has a beautiful feature showcase page.
