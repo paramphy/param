@@ -2,9 +2,9 @@
 layout: page
 title: Youtube channel for classes
 description: My YouTube channel to maintain my classes
-img: assets/img/python_comp.jpg
+img: assets/img/youtube.jpg
 importance: 4
-redirect: https://github.com/paramphy/python_for_computational_physics
+redirect: https://www.youtube.com/channel/UC9LXbAJs_RYNV2W5nJjx2eg
 category: work
 ---
 
