@@ -2,9 +2,9 @@
 layout: post
 title:  Nice memories at IITKGP
 date:  2022-08-12 13:08:00
-description: Image of our universe published by NASA
-tags: universe
-categories: events
+description: 
+tags: 
+categories: 
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
