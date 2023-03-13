@@ -23,5 +23,5 @@ I am **Paramesh Chandra**, doing my Ph.D. in Physics from [Visva-Bharati](https:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Pronouns :** He/Him/His :innocent:
 
-- **Currently reading:** [*Art of War by Sun Tzu*](https://www.amazon.in/Art-War-Sun-Tzu/dp/8184950888/ref=pd_lpo_2?pd_rd_i=8184950888&psc=1)
+- **Currently reading:** 
 
