@@ -24,4 +24,3 @@ I am **Paramesh Chandra**, doing my Ph.D. in Physics from [Visva-Bharati](https:
 -  **Pronouns :** He/Him/His :innocent:
 
 - **Currently reading:** 
-
