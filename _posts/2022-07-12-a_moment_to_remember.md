@@ -5,6 +5,7 @@ date:  2022-07-11 19:17:00
 description: Image of our universe published by NASA
 tags: universe
 categories: events
+enable_math: true
 ---
 <div class="row mt-3">
         {% include figure.html path="assets/img/STScI-01G7JHZCV9737KVQ1ZWB717GFN.png" class="img-fluid rounded z-depth-1" %}
