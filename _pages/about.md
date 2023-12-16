@@ -24,4 +24,4 @@ I am **Paramesh Chandra**, doing my Ph.D. in Physics from [Visva-Bharati](https:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Pronouns :** He/Him/His :innocent:
 
-- **22/12/2023 - Presenting a POSTER in HYPE-2023 IACS** - [Link to the poster(pdf)](../../../assets/pdf/poster-final.pdf)
+- **22/12/2023 - Presenting a POSTER in HYPE-2023 IACS** - [Link to the poster(pdf)](../assets/pdf/poster-final.pdf)
