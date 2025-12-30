@@ -17,6 +17,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem "wdm", "~> 0.2.0" if Gem.win_platform?
+    gem 'uri', '>= 1.1.1'
 end
 group :other_plugins do
     gem 'httparty'
